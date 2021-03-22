@@ -5,4 +5,4 @@ plugins:
 
 remote_theme: javanile/package-manager@main
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
